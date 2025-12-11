@@ -10,3 +10,8 @@
 세대 간 소통을 위한 가족 대화 플랫폼
 
 *A Web Platform for Family Communication and Generational Bonding*
+
+---
+
+- [Dadam 서비스 바로가기](https://dadam.onrender.com/)
+- [협업 문서 Notion](https://quasar-ixia-6fa.notion.site/Dadam-26adfe9c8852801c8ce6eedf592e734f?source=copy_link)
