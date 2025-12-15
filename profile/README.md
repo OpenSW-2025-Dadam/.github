@@ -13,5 +13,5 @@
 
 ---
 
-- [Dadam 서비스 바로가기](https://dadam.onrender.com/)
+- [Dadam 서비스 바로가기](https://dadam.onrender.com/) (서비스 종료)
 - [협업 문서 Notion](https://quasar-ixia-6fa.notion.site/Dadam-26adfe9c8852801c8ce6eedf592e734f?source=copy_link)
